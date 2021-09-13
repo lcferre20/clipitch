@@ -8,7 +8,7 @@
  </div>
 
 <p align="center">
-  <img width="200" src="src/clipitch/imgs/logo.png" alt="Logo Clipitch">  
+  <<img src="https://lh3.googleusercontent.com/proxy/xsDGSUBbQi3ZmgfjMsx_0p2qR4QtaeMbLSYueb4_q2D_rDWREZuCNjhJ8MXnx1oxdN0pr7j2VQvbsVgp_dSkebGg6XDj_kKZoPkYmS1UYmDGWkezWXwLEMTQxN5HR3MdVp8NjDo_yFs7L4kh3f3PHp4bA-GDv8V-sbWpAp1_6m9h9mFPsrDBnmAF1aimp-zxwlv29uGeoCfQJRPuEgRo1f_CMkBZbc-tO1c00PGodw" alt="La Nación / Violentadas en cuarentena" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 437px; height: 245.812px; margin: 0px;">>  
   <br>
 </p>
 
